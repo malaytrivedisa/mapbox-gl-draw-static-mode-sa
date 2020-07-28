@@ -1,0 +1,17 @@
+{
+  "name": "@mapbox/mapbox-gl-draw-static-mode-sa",
+  "version": "1.0.1",
+  "description": "a static geojson plugin for mapbox-gl-draw by sa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapbox/mapbox-gl-draw-static-mode-sa.git"
+  },
+  "keywords": [
+    "geojson"
+  ],
+  "homepage": "https://github.com/mapbox/mapbox-gl-draw-static-mode-sa#readme"
+}
