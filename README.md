@@ -2,4 +2,4 @@
 
 To install:
 
-`npm i @mapbox/mapbox-gl-draw-static-mode-sa`
+`npm i mapbox-gl-draw-static-mode-sa`
